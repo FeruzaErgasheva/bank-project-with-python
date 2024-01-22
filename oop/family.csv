@@ -1,0 +1,6 @@
+name,surname,age,job,education,marital_status
+Farhod,Bazarov,52,businessman,masters,True
+Mayram,Bazarova,43,homemaker,masters,True
+Fayoza,Ergasheva,20,student,bachelors,False
+Feruza,Ergasheva,18,programmer,high school, False
+Muslima,ERgashboeva,12,pupil,middle school,False
